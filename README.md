@@ -13,3 +13,5 @@ _That was before it had fallen._
 _There is only one left, now. Once upon a time, he had a name. But now there was no living mind in existance capable of comprehending it. So he is simply known as Paradox..._
 
 Thank goodness that's not me. At least, I hope I'm not a character some dude made up.
+
+You should go read some Brandon Sanderson.
