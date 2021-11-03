@@ -13,4 +13,4 @@ Nah, I'm just messing with you.
 - Create a parser (Then a programming language!)
 
 #### Programming experiance:
-Been programming since the end of 2nd grade, haven't stopped since!
+Been programming for ~7 years!
