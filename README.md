@@ -9,3 +9,5 @@ I know JavaScript, HTML, CSS, Python, and Java.
 
 #### Programming experience:
 Been programming for ~7 years!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingParadox&langs_count=8)]()
