@@ -6,6 +6,7 @@ I know JavaScript, HTML, CSS, Python, and Java. I'm dabbling in Rust, Erlang, C+
 
 #### Things I'd like to do:
 - Create a parser (Then a programming language!)
+- Learn Rust
 
 #### Programming experience:
 Been programming for ~7 years!
