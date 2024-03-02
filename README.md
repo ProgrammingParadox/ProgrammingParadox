@@ -11,5 +11,3 @@ I know JavaScript, HTML, CSS, Python, and Java. I'm dabbling in Rust and a few o
 
 #### Programming experience:
 Been programming for ~7 years!
-
-[![ProgrammingParadox](https://github-readme-stats.vercel.app/api?username=ProgrammingParadox)](https://github.com/anuraghazra/github-readme-stats)
