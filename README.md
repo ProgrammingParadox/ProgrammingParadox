@@ -12,4 +12,4 @@ I know JavaScript, HTML, CSS, Python, and Java. I'm dabbling in Rust and a few o
 #### Programming experience:
 Been programming for ~7 years!
 
-(hwæþere)
+(hwæþere/hwathere is old english for "however")
